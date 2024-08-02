@@ -25,10 +25,10 @@ author:
   name             : "S. Mohammad Razavizadeh"
   pronouns         : # example: "she/her"  
   bio              : "Associtae Professor"
+  employer         : "Iran Uni. of Science & Technology"
   location         : "Narmak, Tehran, Iran"
-  employer         : "Iran Uni. of Sci. & Tech. (IUST)"
   uri              : # URL
-  email            : "smrazavi@iust.ac.ir" 
+  smrazavi@iust.ac.ir            : "smrazavi@iust.ac.ir" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
